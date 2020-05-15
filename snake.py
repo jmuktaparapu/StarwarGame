@@ -94,6 +94,7 @@ def is_col(t1, t2):
         return True
     else:
         return False
+    
 
 # keyboard bindings
 wn.listen()
